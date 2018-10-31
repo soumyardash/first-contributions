@@ -59,6 +59,7 @@
 - [Hunter Day](https://github.com/huntmanday)
 - [Ihoey](https://github.com/ihoey)
 - [Amal Dinesh](https://github.com/amaldinesh4549)
+- [Soumya Ranjan](https://github.com/soumyardash)
 - [Divyam](https://github.com/shahdivyam)
 - [RBRamu](https://github.com/rbramu)
 - julio-garcia-fc
